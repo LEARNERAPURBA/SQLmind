@@ -1,0 +1,9 @@
+# AI Framework & Local Engine
+langchain-ollama>=0.1.0
+langgraph>=0.2.0
+
+# Development Environment
+jupyter>=1.0.0
+
+# Database Connection Tooling
+psycopg2-binary>=2.9.9
