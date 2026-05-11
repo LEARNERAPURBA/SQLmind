@@ -1,0 +1,12 @@
+* text=auto
+
+# Force LF for code
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Notebooks (binary-like)
+*.ipynb -text

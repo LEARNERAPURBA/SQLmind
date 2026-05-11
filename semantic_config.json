@@ -1,0 +1,13 @@
+{
+  "domain": "Property Tax Analysis",
+  "generated_at": "2026-05-04T10:23:40.032621",
+  "relations": [
+    {
+      "base_table": "tbl_property_details",
+      "base_col": "new_property_no",
+      "target_table": "tbl_property_tax_demand",
+      "target_col": "new_property_no",
+      "description": ""
+    }
+  ]
+}
